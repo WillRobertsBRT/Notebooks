@@ -1,0 +1,44 @@
+crop_name,state,count
+CORN,Arkansas,5
+CORN,Illinois,6
+CORN,Indiana,1
+CORN,Iowa,12
+CORN,Louisiana,4
+CORN,Minnesota,7
+CORN,Missouri,3
+CORN,Nebraska,9
+CORN,North Dakota,3
+CORN,Ohio,6
+CORN,South Dakota,6
+CORN,Texas,15
+CORN,Wisconsin,1
+COTTON,Alabama,6
+COTTON,Arkansas,17
+COTTON,Georgia,30
+COTTON,Illinois,6
+COTTON,Indiana,1
+COTTON,Kansas,4
+COTTON,Louisiana,7
+COTTON,Mississippi,11
+COTTON,Missouri,12
+COTTON,North Carolina,13
+COTTON,Tennessee,12
+COTTON,Texas,34
+SOYBEANS,Alabama,2
+SOYBEANS,Arkansas,35
+SOYBEANS,Illinois,11
+SOYBEANS,Indiana,5
+SOYBEANS,Iowa,40
+SOYBEANS,Kansas,10
+SOYBEANS,Louisiana,8
+SOYBEANS,Minnesota,19
+SOYBEANS,Mississippi,14
+SOYBEANS,Missouri,27
+SOYBEANS,Nebraska,27
+SOYBEANS,North Carolina,12
+SOYBEANS,North Dakota,21
+SOYBEANS,Ohio,22
+SOYBEANS,South Dakota,22
+SOYBEANS,Tennessee,9
+SOYBEANS,Texas,12
+SOYBEANS,Wisconsin,1
